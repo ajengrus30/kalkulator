@@ -1,0 +1,10 @@
+D:\AjengRuswanti_Kalkulator\AjengRuswanti_Kalkulator\bin\Debug\AjengRuswanti_Kalkulator.exe.config
+D:\AjengRuswanti_Kalkulator\AjengRuswanti_Kalkulator\bin\Debug\AjengRuswanti_Kalkulator.exe
+D:\AjengRuswanti_Kalkulator\AjengRuswanti_Kalkulator\bin\Debug\AjengRuswanti_Kalkulator.pdb
+D:\AjengRuswanti_Kalkulator\AjengRuswanti_Kalkulator\obj\Debug\AjengRuswanti_Kalkulator.csprojAssemblyReference.cache
+D:\AjengRuswanti_Kalkulator\AjengRuswanti_Kalkulator\obj\Debug\AjengRuswanti_Kalkulator.Form1.resources
+D:\AjengRuswanti_Kalkulator\AjengRuswanti_Kalkulator\obj\Debug\AjengRuswanti_Kalkulator.Properties.Resources.resources
+D:\AjengRuswanti_Kalkulator\AjengRuswanti_Kalkulator\obj\Debug\AjengRuswanti_Kalkulator.csproj.GenerateResource.cache
+D:\AjengRuswanti_Kalkulator\AjengRuswanti_Kalkulator\obj\Debug\AjengRuswanti_Kalkulator.csproj.CoreCompileInputs.cache
+D:\AjengRuswanti_Kalkulator\AjengRuswanti_Kalkulator\obj\Debug\AjengRuswanti_Kalkulator.exe
+D:\AjengRuswanti_Kalkulator\AjengRuswanti_Kalkulator\obj\Debug\AjengRuswanti_Kalkulator.pdb
